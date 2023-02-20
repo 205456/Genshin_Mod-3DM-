@@ -1,2 +1,3 @@
-# Genshin_Mod-3DM-
-一些自用的原神MOD,多为agmg频道及香蕉站点处搜集,具体使用方法请参考3DMigoto。
+3DMigoto:https://github.com/SilentNightSound/GI-Model-Importer
+
+视频演示:https://www.youtube.com/watch?v=wx4x3ti7mpk&t=61s
